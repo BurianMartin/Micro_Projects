@@ -1,0 +1,3 @@
+/home/buri/VSCode/C++/Sandwich_Roulette/build/CMakeFiles/Sandwich_Roulette.dir
+/home/buri/VSCode/C++/Sandwich_Roulette/build/CMakeFiles/edit_cache.dir
+/home/buri/VSCode/C++/Sandwich_Roulette/build/CMakeFiles/rebuild_cache.dir
