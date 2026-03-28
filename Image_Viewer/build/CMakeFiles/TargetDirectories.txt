@@ -1,0 +1,3 @@
+/home/buri/Micro_Projects/Image_Viewer/build/CMakeFiles/Image_Viewer.dir
+/home/buri/Micro_Projects/Image_Viewer/build/CMakeFiles/edit_cache.dir
+/home/buri/Micro_Projects/Image_Viewer/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Image_Viewer.dir/src/main.c.o -o Image_Viewer  -Wl,-rpath,/usr/local/lib /usr/lib/x86_64-linux-gnu/libz.so /usr/local/lib/libSDL3.so.0.5.0 
